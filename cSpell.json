@@ -6,6 +6,8 @@
     "language": "en",
     // words - list of words to be always considered correct
     "words": [
+        "injectable",
+        "iterables",
         "jali"
     ],
     // flagWords - list of words to be always considered incorrect
